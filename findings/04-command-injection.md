@@ -27,4 +27,5 @@ Rated High because the attacker achieves arbitrary OS command execution on the s
 An attacker can read arbitrary files, exfiltrate sensitive data, install backdoors, establish reverse shells, pivot to internal network systems, or cause complete server compromise. This is one of the most critical vulnerability classes in web application security.
 
 ## Screenshot
-See `/screenshots/SCREENSHOT #5.png` and `/screenshots/SCREENSHOT #6.png`
+See ![Command Injection whoami](../SCREENSHOT%20%235.png)
+![Command Injection passwd](../SCREENSHOT%20%236.png)
