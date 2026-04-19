@@ -33,7 +33,8 @@ Rated High because the vulnerability allows complete authentication bypass and f
 An attacker can dump all user credentials, bypass login authentication, and potentially access or destroy the entire database. MD5 hashes are trivially crackable, meaning plaintext passwords are effectively exposed.
 
 ## Screenshot
-See `/screenshot-01.png` and `/screenshots/SCREENSHOT #2.png`
+See ![SQLi DB Dump](../SCREENSHOT%20%231.png)
+![SQLi Password Hashes](../SCREENSHOT%20%232.png)
 
 ## Remediation
 See `/remediation/sqli_fix.php` — vulnerability fixed using prepared statements with parameterized queries.
