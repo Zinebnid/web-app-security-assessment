@@ -25,4 +25,4 @@ Rated High because access control is entirely absent. An attacker can enumerate 
 In a real application this would expose all user profiles, private data, orders, messages, or financial records to any authenticated user. Combined with automation, an attacker could scrape the entire user database in minutes.
 
 ## Screenshot
-See `/screenshots/SCREENSHOT #4.png`
+See ![IDOR](../SCREENSHOT%20%234.png)
