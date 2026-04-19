@@ -31,4 +31,5 @@ Rated Medium because it requires the victim to be logged in and to click a link 
 An attacker sends the malicious link via email or social media. One click by a logged-in user silently changes their password. The attacker then logs in with the new password achieving full account takeover.
 
 ## Screenshot
-See `/screenshots/SCREENSHOT #7.png` and `/screenshots/SCREENSHOT #8.png`
+![CSRF Attack Page](../SCREENSHOT%20%237.png)
+![CSRF Confirmed](../SCREENSHOT%20%238.png)
